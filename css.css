@@ -44,4 +44,15 @@ h1{
     text-align: center;
     margin: 40px 60px;
 }
-    
+ .answer{
+margin-left: 120px;
+    height: 100px;
+    width: 80%;
+    text-align: right;
+    font-size: 50px;
+    padding-top: 25px;
+    padding-right: 10px;
+    border-radius: 10%;
+    border: 5px solid #fef6e4;
+    background-color: #f582ae;
+ }   
